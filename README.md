@@ -1,3 +1,3 @@
 # EmotionTracker
 
-Site maneiro que faz coisas maneiras :)
+Neste site, recebemos o retorno dos resultados obtidos pelos sensores para obter um resultado
